@@ -1,4 +1,4 @@
-# AC-Switch-Blink-Project
+# Electrical Mains Low-Frequency Control Topology
 <p>Arduino Nano Mains Control Switch.</p>
 <p>By: Javier. https://sites.google.com/view/b-eng-jarl/home</p>
 <br></br>
