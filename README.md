@@ -4,6 +4,8 @@
 <br></br>
 <p>Based in Arduino example: 01-Basics/Blink:</p>
 <p>Successful implementation results in a blinking domestic light bulb at a 0.5Hz frequency with 50% duty cycle.</p>
+<p>Suitable for low-frequency applications (e.g. human-machine interfaces).</p>
+<p>High-frequency applications require circuitry revision (e.g. TRIAC embedding / MOSFET repurposing for effective power switching).</p>
 <p>Modify firmware code to suit your high-power digital control needs.</p>
 
 ![VAC Blink](https://github.com/user-attachments/assets/62ec0bd7-f069-49bb-83c4-eea43b194cd1)
