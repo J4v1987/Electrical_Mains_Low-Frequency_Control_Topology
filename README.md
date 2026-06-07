@@ -3,6 +3,7 @@
 <p>By: Javier. https://sites.google.com/view/b-eng-jarl/home</p>
 <br></br>
 <p>Based in Arduino example: 01-Basics/Blink:</p>
+⚠️FOR RAPID COMPONENT FUNCTION-TESTING ONLY⚠️
 <p>Successful implementation results in a blinking domestic light bulb at a 0.5Hz frequency with 50% duty cycle.</p>
 <p>Suitable for low-frequency applications (e.g. contactless human-machine control interfaces).</p>
 <p>High-frequency applications require circuitry revision (e.g. TRIAC embedding / MOSFET repurposing for effective power switching).</p>
