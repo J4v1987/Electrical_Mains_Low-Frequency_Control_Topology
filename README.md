@@ -1,4 +1,4 @@
-# Electrical Power Mains Low-Frequency with Microcontroller Control Topology
+# Electrical Power Mains Control Topology, Low-Frequency, with Microcontroller.
 <p>Arduino Nano Mains Control Switch.</p>
 <p>By: Javier. https://sites.google.com/view/b-eng-jarl/home</p>
 <br></br>
